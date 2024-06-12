@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "서비스"
       section: services
     - title: "Portfolio"
       section: portfolio
@@ -21,10 +21,9 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
+    - title: "문의"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    
 en-US:
   <<: *DEFAULT_EN
 en-CA:
